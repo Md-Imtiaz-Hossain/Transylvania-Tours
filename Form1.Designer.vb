@@ -45,6 +45,7 @@ Partial Class Form1
         btnCalculateTotalCost = New Button()
         Label1 = New Label()
         result = New TextBox()
+        resetButton = New Button()
         GroupBox1.SuspendLayout()
         GroupBox2.SuspendLayout()
         GroupBox3.SuspendLayout()
@@ -329,12 +330,24 @@ Partial Class Form1
         result.Size = New Size(100, 23)
         result.TabIndex = 32
         ' 
+        ' resetButton
+        ' 
+        resetButton.BackColor = Color.Orange
+        resetButton.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
+        resetButton.Location = New Point(238, 529)
+        resetButton.Name = "resetButton"
+        resetButton.Size = New Size(104, 38)
+        resetButton.TabIndex = 33
+        resetButton.Text = "Reset"
+        resetButton.UseVisualStyleBackColor = False
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), Image)
         ClientSize = New Size(1093, 619)
+        Controls.Add(resetButton)
         Controls.Add(result)
         Controls.Add(btnCalculateTotalCost)
         Controls.Add(btnNextPage)
@@ -378,4 +391,5 @@ Partial Class Form1
     Friend WithEvents btnCalculateTotalCost As Button
     Friend WithEvents Label1 As Label
     Friend WithEvents result As TextBox
+    Friend WithEvents resetButton As Button
 End Class

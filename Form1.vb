@@ -55,6 +55,35 @@ Public Class Form1
         ' Assign the total amount to the result text box
         result.Text = totalAmount.ToString("C")
 
+
+    End Sub
+
+    Private Sub resetButton_Click(sender As Object, e As EventArgs) Handles resetButton.Click
+        ResetForm()
+    End Sub
+
+
+    Private Sub ResetForm()
+        visit8August.Checked = False
+        visit15August.Checked = False
+        visit22August.Checked = False
+        visit29August.Checked = False
+
+        lunchSalad.Checked = False
+        lunchSandwich.Checked = False
+        lunchSoup.Checked = False
+        lunchBakedPotato.Checked = False
+
+        activityHorseRiding.Checked = False
+        activityHillWalking.Checked = False
+        activitySkydiving.Checked = False
+
+        extraActivityArchery.Checked = False
+        extraActivityFalconry.Checked = False
+        extraActivityBungeeJumping.Checked = False
+
+        totalAmount = 0
+        result.Text = ""
     End Sub
 
 End Class
