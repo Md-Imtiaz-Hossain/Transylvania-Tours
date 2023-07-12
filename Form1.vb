@@ -1,6 +1,10 @@
 ﻿Imports System.Globalization
+Imports System.Windows
+Imports System.Windows.Forms.DataFormats
 Imports System.Windows.Forms.Design.AxImporter
 Imports System.Windows.Forms.VisualStyles.VisualStyleElement.Button
+Imports System.Windows.Forms
+Imports System.Text
 
 Public Class Form1
 
@@ -87,5 +91,9 @@ Public Class Form1
         result.Text = ""
     End Sub
 
+    Private Sub btnNextPage_Click(sender As Object, e As EventArgs) Handles btnNextPage.Click
+        Dim lunchForm As New NextForm(totalAmount)
+        lunchForm.Show()
+    End Sub
 
 End Class
