@@ -43,6 +43,7 @@ Partial Class Form1
         RadioButton16 = New RadioButton()
         Button2 = New Button()
         Button3 = New Button()
+        Label1 = New Label()
         GroupBox1.SuspendLayout()
         GroupBox2.SuspendLayout()
         GroupBox3.SuspendLayout()
@@ -310,6 +311,20 @@ Partial Class Form1
         Button3.Text = "Total Cost"
         Button3.UseVisualStyleBackColor = False
         ' 
+        ' Label1
+        ' 
+        Label1.AllowDrop = True
+        Label1.AutoSize = True
+        Label1.BackColor = Color.AntiqueWhite
+        Label1.FlatStyle = FlatStyle.System
+        Label1.Font = New Font("Forte", 40F, FontStyle.Regular, GraphicsUnit.Point)
+        Label1.Location = New Point(202, 41)
+        Label1.Name = "Label1"
+        Label1.Size = New Size(749, 60)
+        Label1.TabIndex = 31
+        Label1.Text = "Welcome to Transylvania Tours"
+        Label1.UseMnemonic = False
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -322,6 +337,7 @@ Partial Class Form1
         Controls.Add(GroupBox3)
         Controls.Add(GroupBox2)
         Controls.Add(GroupBox1)
+        Controls.Add(Label1)
         Name = "Form1"
         Text = "Form1"
         GroupBox1.ResumeLayout(False)
@@ -333,6 +349,7 @@ Partial Class Form1
         GroupBox4.ResumeLayout(False)
         GroupBox4.PerformLayout()
         ResumeLayout(False)
+        PerformLayout()
     End Sub
     Friend WithEvents GroupBox1 As GroupBox
     Friend WithEvents RadioButton8 As RadioButton
@@ -354,4 +371,5 @@ Partial Class Form1
     Friend WithEvents RadioButton16 As RadioButton
     Friend WithEvents Button2 As Button
     Friend WithEvents Button3 As Button
+    Friend WithEvents Label1 As Label
 End Class
