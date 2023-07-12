@@ -117,11 +117,346 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="result.Location" type="System.Drawing.Point, System.Drawing">
+    <value>182, 474</value>
+  </data>
+  <data name="lunchSalad.Text" xml:space="preserve">
+    <value>Salad £5.00</value>
+  </data>
+  <data name="&gt;&gt;GroupBox2.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;activityHillWalking.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;Label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lunchBakedPotato.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="resetButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;activitySkydiving.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lunchBakedPotato.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="extraActivityBungeeJumping.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="extraActivityBungeeJumping.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="&gt;&gt;GroupBox4.Name" xml:space="preserve">
+    <value>GroupBox4</value>
+  </data>
+  <data name="Label2.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="&gt;&gt;btnNextPage.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;visit22August.Name" xml:space="preserve">
+    <value>visit22August</value>
+  </data>
+  <data name="&gt;&gt;visit22August.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;visit29August.Parent" xml:space="preserve">
+    <value>GroupBox3</value>
+  </data>
+  <data name="&gt;&gt;GroupBox4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="visit29August.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;extraActivityFalconry.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lunchSandwich.Text" xml:space="preserve">
+    <value>Sandwich £3.50</value>
+  </data>
+  <data name="GroupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>232, 140</value>
+  </data>
+  <data name="lunchSoup.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="result.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;activitySkydiving.Parent" xml:space="preserve">
+    <value>GroupBox4</value>
+  </data>
+  <data name="lunchSoup.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt, style=Bold</value>
+  </data>
+  <data name="lunchSoup.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;extraActivityBungeeJumping.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="visit22August.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;extraActivityBungeeJumping.Name" xml:space="preserve">
+    <value>extraActivityBungeeJumping</value>
+  </data>
+  <data name="lunchSoup.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 78</value>
+  </data>
+  <data name="lunchSandwich.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 24</value>
+  </data>
+  <data name="visit29August.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;activityHorseRiding.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="extraActivityArchery.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;GroupBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="visit8August.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="extraActivityFalconry.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="visit15August.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="visit8August.Text" xml:space="preserve">
+    <value>Saturday 8th August</value>
+  </data>
+  <data name="&gt;&gt;activityHorseRiding.Name" xml:space="preserve">
+    <value>activityHorseRiding</value>
+  </data>
+  <data name="activityHorseRiding.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11pt, style=Bold</value>
+  </data>
+  <data name="btnCalculateTotalCost.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="&gt;&gt;btnNextPage.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="visit15August.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 24</value>
+  </data>
+  <data name="extraActivityBungeeJumping.Size" type="System.Drawing.Size, System.Drawing">
+    <value>191, 24</value>
+  </data>
+  <data name="&gt;&gt;extraActivityFalconry.Name" xml:space="preserve">
+    <value>extraActivityFalconry</value>
+  </data>
+  <data name="extraActivityArchery.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 24</value>
+  </data>
+  <data name="activitySkydiving.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11pt, style=Bold</value>
+  </data>
+  <data name="btnCalculateTotalCost.Size" type="System.Drawing.Size, System.Drawing">
+    <value>122, 30</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.Name" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="btnNextPage.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="GroupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>302, 341</value>
+  </data>
+  <data name="&gt;&gt;lunchSandwich.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lunchSandwich.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 53</value>
+  </data>
+  <data name="activityHillWalking.Text" xml:space="preserve">
+    <value>Hill walking £15.00</value>
+  </data>
+  <data name="visit29August.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 103</value>
+  </data>
+  <data name="lunchSalad.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;extraActivityBungeeJumping.Parent" xml:space="preserve">
+    <value>GroupBox2</value>
+  </data>
+  <data name="extraActivityArchery.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 27</value>
+  </data>
+  <data name="activityHorseRiding.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="activityHorseRiding.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="lunchSoup.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 24</value>
+  </data>
+  <data name="visit8August.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="activityHillWalking.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="extraActivityFalconry.Text" xml:space="preserve">
+    <value>Falconry £25.00</value>
+  </data>
+  <data name="extraActivityFalconry.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 52</value>
+  </data>
+  <data name="&gt;&gt;activityHillWalking.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;visit29August.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;GroupBox3.Name" xml:space="preserve">
+    <value>GroupBox3</value>
+  </data>
+  <data name="&gt;&gt;activityHorseRiding.Parent" xml:space="preserve">
+    <value>GroupBox4</value>
+  </data>
+  <data name="&gt;&gt;Label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lunchSandwich.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="Label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>734, 52</value>
+  </data>
+  <data name="&gt;&gt;GroupBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lunchSandwich.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="extraActivityFalconry.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt, style=Bold</value>
+  </data>
+  <data name="lunchSalad.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btnCalculateTotalCost.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;resetButton.Name" xml:space="preserve">
+    <value>resetButton</value>
+  </data>
+  <data name="activitySkydiving.Text" xml:space="preserve">
+    <value>Skydiving £30.00</value>
+  </data>
+  <data name="&gt;&gt;extraActivityBungeeJumping.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="visit8August.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 28</value>
+  </data>
+  <data name="activitySkydiving.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;lunchSalad.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="result.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11pt, style=Bold</value>
+  </data>
+  <data name="visit22August.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 24</value>
+  </data>
+  <data name="lunchBakedPotato.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 103</value>
+  </data>
+  <data name="&gt;&gt;lunchSalad.Name" xml:space="preserve">
+    <value>lunchSalad</value>
+  </data>
+  <data name="activityHorseRiding.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="&gt;&gt;visit15August.Parent" xml:space="preserve">
+    <value>GroupBox3</value>
+  </data>
+  <data name="btnCalculateTotalCost.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="btnNextPage.Text" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="&gt;&gt;visit22August.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnNextPage.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
   <data name="visit29August.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>System</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="visit22August.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;result.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="visit8August.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;GroupBox4.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="extraActivityArchery.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="GroupBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>54, 195</value>
+  </data>
+  <data name="visit29August.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;extraActivityFalconry.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lunchSoup.Text" xml:space="preserve">
+    <value>Soup £2.75</value>
+  </data>
+  <data name="GroupBox2.Text" xml:space="preserve">
+    <value>Extra Activities : </value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="visit22August.Text" xml:space="preserve">
+    <value>Saturday 22nd August</value>
+  </data>
+  <data name="lunchBakedPotato.Size" type="System.Drawing.Size, System.Drawing">
+    <value>164, 24</value>
+  </data>
+  <data name="activitySkydiving.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
   <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAABGMAAALuCAIAAACFMUxvAAAABGdBTUEAALEQa0zv0AAAACBjSFJNAACH
@@ -130,7 +465,7 @@
         k4H0HyCOSy4oKmFgYIwBsrnLSwpA7AwgWyQpG8yuAbGLgA4EsieA2OkQ9hKwGgh7B1hNSJAzkH0GyHZI
         R2InIbGh9oIAc7IRA9VBSWpFCYj2jGBgAIUpelghxJjFgNgYGBdLEGL5ixgYLL4CxScgxJJmMjBsb2Vg
         kLiFEFNZwMDA38LAsO18cmlRGdRqKSA+zXiSOZl1Ekc29zcBe9FAaRPFj5oTjCSsJ7mxBpbHvs0uqGLt
-        3DirZk3m/trLh18a/P8PAO6TU5YBdC0kAAAACXBIWXMAAAsQAAALEAGtI711AAD+Y0lEQVR4Xuzdh5bj
+        3DirZk3m/trLh18a/P8PAO6TU5YBdC0kAAAACXBIWXMAAAsPAAALDwGS+QOlAAD+Y0lEQVR4Xuzdh5bj
         xtmFa9//7ZxzfidpZjpPzjnnPJJsK1nBOiAL3Cy+XxEbqEaT3S1qPYurQxUINjleeA2w+JcXd/9W9PLe
         34ve3vvHKN4/+Krow/1xfHzwddHn++P4dO+rIuyG9fle2TcPzkRfHpz5dO/Mxwdnk08PzyWfH23p656a
         KRuNL4+3izCsGja7MtgNwctA9KJasff3yz48OFf09l7Zm7tnR4HNyqvbXxe9vnOmCMPkxZ1hnt8+U/Ts
@@ -17958,189 +18293,194 @@
         GI3rIKWDgKW04AEpSZkALg7YYdTNDutx5esK4/J1/dKUzbTwPyhLc9NdhN0sAAAAAElFTkSuQmCC
 </value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="visit8August.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;visit15August.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;extraActivityArchery.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;extraActivityArchery.Name" xml:space="preserve">
-    <value>extraActivityArchery</value>
+  <data name="GroupBox3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
   </data>
-  <data name="btnNextPage.Text" xml:space="preserve">
-    <value>Next</value>
-  </data>
-  <data name="lunchSoup.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="lunchSandwich.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lunchSandwich.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="activityHorseRiding.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lunchSalad.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
-  </data>
-  <data name="btnCalculateTotalCost.Size" type="System.Drawing.Size, System.Drawing">
-    <value>122, 30</value>
-  </data>
-  <data name="resetButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>302, 474</value>
-  </data>
-  <data name="lunchBakedPotato.Text" xml:space="preserve">
-    <value>Baked potato £4.15</value>
-  </data>
-  <data name="Label2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Lucida Calligraphy, 30pt, style=Bold, Underline</value>
-  </data>
-  <data name="lunchBakedPotato.Size" type="System.Drawing.Size, System.Drawing">
-    <value>164, 24</value>
-  </data>
-  <data name="visit8August.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 24</value>
-  </data>
-  <data name="&gt;&gt;lunchSoup.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnNextPage.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lunchSoup.Name" xml:space="preserve">
-    <value>lunchSoup</value>
-  </data>
-  <data name="&gt;&gt;extraActivityBungeeJumping.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="GroupBox4.TabIndex" type="System.Int32, mscorlib">
-    <value>27</value>
-  </data>
-  <data name="GroupBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>24</value>
-  </data>
-  <data name="GroupBox3.Text" xml:space="preserve">
-    <value>Date of visit : </value>
-  </data>
-  <data name="&gt;&gt;activityHorseRiding.Type" xml:space="preserve">
+  <data name="&gt;&gt;visit15August.Type" xml:space="preserve">
     <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="resetButton.Text" xml:space="preserve">
     <value>Reset</value>
   </data>
-  <data name="btnCalculateTotalCost.Location" type="System.Drawing.Point, System.Drawing">
-    <value>54, 474</value>
+  <data name="activityHorseRiding.Text" xml:space="preserve">
+    <value>Horse riding £25.00</value>
+  </data>
+  <data name="&gt;&gt;resetButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;visit22August.Parent" xml:space="preserve">
+    <value>GroupBox3</value>
+  </data>
+  <data name="visit29August.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 24</value>
+  </data>
+  <data name="GroupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="activitySkydiving.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="GroupBox2.Size" type="System.Drawing.Size, System.Drawing">
     <value>232, 118</value>
   </data>
-  <data name="extraActivityArchery.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+  <data name="btnNextPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>430, 474</value>
+  </data>
+  <data name="extraActivityBungeeJumping.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnCalculateTotalCost.Text" xml:space="preserve">
+    <value>Total Cost = </value>
+  </data>
+  <data name="lunchBakedPotato.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>System</value>
   </data>
-  <data name="&gt;&gt;visit22August.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;GroupBox3.ZOrder" xml:space="preserve">
+    <value>6</value>
   </data>
-  <data name="visit22August.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
+  <data name="lunchSandwich.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
   </data>
-  <data name="&gt;&gt;lunchBakedPotato.Parent" xml:space="preserve">
+  <data name="&gt;&gt;lunchSalad.Parent" xml:space="preserve">
     <value>GroupBox1</value>
   </data>
-  <data name="GroupBox1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 12pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;visit8August.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="GroupBox4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>54, 341</value>
-  </data>
-  <data name="visit15August.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lunchBakedPotato.Location" type="System.Drawing.Point, System.Drawing">
-    <value>27, 103</value>
-  </data>
-  <data name="&gt;&gt;Label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="activityHillWalking.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>System</value>
-  </data>
-  <data name="btnCalculateTotalCost.TabIndex" type="System.Int32, mscorlib">
-    <value>30</value>
-  </data>
-  <data name="Label2.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;btnNextPage.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="visit22August.Location" type="System.Drawing.Point, System.Drawing">
-    <value>35, 78</value>
-  </data>
-  <data name="activityHillWalking.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;lunchSandwich.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;GroupBox4.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="visit22August.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;lunchBakedPotato.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnCalculateTotalCost.Name" xml:space="preserve">
-    <value>btnCalculateTotalCost</value>
-  </data>
-  <data name="&gt;&gt;lunchSalad.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="GroupBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>54, 195</value>
-  </data>
-  <data name="GroupBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>302, 341</value>
-  </data>
-  <data name="extraActivityArchery.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 24</value>
-  </data>
-  <data name="GroupBox1.Text" xml:space="preserve">
-    <value>Lunch</value>
-  </data>
-  <data name="&gt;&gt;resetButton.Name" xml:space="preserve">
-    <value>resetButton</value>
-  </data>
-  <data name="activityHorseRiding.Text" xml:space="preserve">
-    <value>Horse riding £25.00</value>
-  </data>
-  <data name="activitySkydiving.TabIndex" type="System.Int32, mscorlib">
-    <value>18</value>
+  <data name="activitySkydiving.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 25</value>
   </data>
   <data name="lunchSalad.Size" type="System.Drawing.Size, System.Drawing">
     <value>110, 24</value>
   </data>
-  <data name="&gt;&gt;resetButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;lunchSandwich.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;lunchSoup.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="GroupBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="visit8August.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;extraActivityArchery.Name" xml:space="preserve">
+    <value>extraActivityArchery</value>
+  </data>
+  <data name="activitySkydiving.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 78</value>
+  </data>
+  <data name="btnCalculateTotalCost.Location" type="System.Drawing.Point, System.Drawing">
+    <value>54, 474</value>
+  </data>
+  <data name="resetButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>302, 474</value>
+  </data>
+  <data name="&gt;&gt;GroupBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;activityHillWalking.Name" xml:space="preserve">
+    <value>activityHillWalking</value>
+  </data>
+  <data name="extraActivityFalconry.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="&gt;&gt;visit29August.Name" xml:space="preserve">
+    <value>visit29August</value>
+  </data>
+  <data name="GroupBox4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="activityHorseRiding.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 25</value>
+  </data>
+  <data name="btnNextPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 30</value>
+  </data>
+  <data name="visit8August.Size" type="System.Drawing.Size, System.Drawing">
+    <value>168, 24</value>
+  </data>
+  <data name="extraActivityArchery.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt, style=Bold</value>
+  </data>
+  <data name="GroupBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="visit29August.Text" xml:space="preserve">
+    <value>Saturday 29th August</value>
+  </data>
+  <data name="&gt;&gt;lunchSandwich.Name" xml:space="preserve">
+    <value>lunchSandwich</value>
+  </data>
+  <data name="&gt;&gt;btnNextPage.Name" xml:space="preserve">
+    <value>btnNextPage</value>
+  </data>
+  <data name="GroupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>302, 195</value>
+  </data>
+  <data name="activityHillWalking.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lunchBakedPotato.Text" xml:space="preserve">
+    <value>Baked potato £4.15</value>
+  </data>
+  <data name="activityHillWalking.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 53</value>
+  </data>
+  <data name="GroupBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>54, 341</value>
+  </data>
+  <data name="&gt;&gt;lunchBakedPotato.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="Label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Lucida Calligraphy, 30pt, style=Bold, Underline</value>
   </data>
   <data name="extraActivityFalconry.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
   </data>
-  <data name="&gt;&gt;extraActivityFalconry.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="GroupBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
   </data>
-  <data name="lunchSandwich.Text" xml:space="preserve">
-    <value>Sandwich £3.50</value>
+  <data name="lunchSandwich.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
-  <data name="GroupBox4.Text" xml:space="preserve">
-    <value>Activities : </value>
+  <data name="lunchSalad.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="visit15August.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;activityHillWalking.Parent" xml:space="preserve">
+    <value>GroupBox4</value>
+  </data>
+  <data name="resetButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="lunchSalad.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="Label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="activityHorseRiding.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 28</value>
+  </data>
+  <data name="resetButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 30</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1093, 619</value>
+  </data>
+  <data name="visit22August.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 78</value>
+  </data>
+  <data name="&gt;&gt;GroupBox3.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="visit15August.Text" xml:space="preserve">
     <value>Saturday 15th August</value>
@@ -18148,360 +18488,101 @@
   <data name="GroupBox2.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
   </data>
-  <data name="lunchBakedPotato.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>System</value>
+  <data name="&gt;&gt;GroupBox2.Name" xml:space="preserve">
+    <value>GroupBox2</value>
   </data>
-  <data name="extraActivityArchery.Text" xml:space="preserve">
-    <value>Archery £20.00</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="btnNextPage.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 0</value>
-  </data>
-  <data name="&gt;&gt;btnNextPage.Name" xml:space="preserve">
-    <value>btnNextPage</value>
-  </data>
-  <data name="lunchSoup.AutoSize" type="System.Boolean, mscorlib">
+  <data name="visit15August.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="visit29August.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="btnNextPage.TabIndex" type="System.Int32, mscorlib">
-    <value>29</value>
-  </data>
-  <data name="GroupBox4.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 12pt, style=Bold</value>
+  <data name="&gt;&gt;lunchBakedPotato.Name" xml:space="preserve">
+    <value>lunchBakedPotato</value>
   </data>
   <data name="&gt;&gt;GroupBox3.Type" xml:space="preserve">
     <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;extraActivityBungeeJumping.Parent" xml:space="preserve">
-    <value>GroupBox2</value>
-  </data>
-  <data name="&gt;&gt;extraActivityFalconry.Name" xml:space="preserve">
-    <value>extraActivityFalconry</value>
-  </data>
-  <data name="&gt;&gt;GroupBox4.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="GroupBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>302, 195</value>
-  </data>
-  <data name="lunchSandwich.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10pt, style=Bold</value>
-  </data>
-  <data name="visit29August.Size" type="System.Drawing.Size, System.Drawing">
-    <value>176, 24</value>
-  </data>
-  <data name="lunchSalad.Text" xml:space="preserve">
-    <value>Salad £5.00</value>
-  </data>
-  <data name="extraActivityFalconry.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10pt, style=Bold</value>
-  </data>
-  <data name="btnCalculateTotalCost.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 0</value>
-  </data>
-  <data name="resetButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 0</value>
-  </data>
-  <data name="&gt;&gt;GroupBox1.Name" xml:space="preserve">
-    <value>GroupBox1</value>
-  </data>
-  <data name="activitySkydiving.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>System</value>
-  </data>
-  <data name="&gt;&gt;visit29August.Parent" xml:space="preserve">
-    <value>GroupBox3</value>
-  </data>
-  <data name="activityHillWalking.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 11pt, style=Bold</value>
-  </data>
-  <data name="result.Size" type="System.Drawing.Size, System.Drawing">
-    <value>104, 27</value>
-  </data>
-  <data name="&gt;&gt;GroupBox1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
-    <value>CenterScreen</value>
-  </data>
-  <data name="&gt;&gt;extraActivityArchery.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="visit29August.Text" xml:space="preserve">
-    <value>Saturday 29th August</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>7, 15</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Form1</value>
-  </data>
-  <data name="activityHorseRiding.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>System</value>
-  </data>
-  <data name="extraActivityFalconry.Text" xml:space="preserve">
-    <value>Falconry £25.00</value>
-  </data>
-  <data name="lunchSandwich.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>System</value>
-  </data>
-  <data name="&gt;&gt;resetButton.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="visit8August.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>System</value>
-  </data>
-  <data name="visit15August.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="lunchSalad.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10pt, style=Bold</value>
-  </data>
-  <data name="result.TabIndex" type="System.Int32, mscorlib">
-    <value>32</value>
-  </data>
-  <data name="btnCalculateTotalCost.Text" xml:space="preserve">
-    <value>Total Cost = </value>
-  </data>
-  <data name="&gt;&gt;visit29August.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="extraActivityArchery.AutoSize" type="System.Boolean, mscorlib">
+  <data name="lunchSoup.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
-  </data>
-  <data name="&gt;&gt;result.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;lunchSalad.Parent" xml:space="preserve">
-    <value>GroupBox1</value>
-  </data>
-  <data name="visit15August.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>System</value>
-  </data>
-  <data name="activityHorseRiding.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="activityHorseRiding.Location" type="System.Drawing.Point, System.Drawing">
-    <value>35, 28</value>
-  </data>
-  <data name="extraActivityFalconry.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>System</value>
-  </data>
-  <data name="&gt;&gt;extraActivityArchery.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;resetButton.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="GroupBox4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>232, 118</value>
-  </data>
-  <data name="visit22August.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 24</value>
-  </data>
-  <data name="extraActivityFalconry.Location" type="System.Drawing.Point, System.Drawing">
-    <value>27, 52</value>
-  </data>
-  <data name="&gt;&gt;GroupBox1.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;GroupBox2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="resetButton.TabIndex" type="System.Int32, mscorlib">
-    <value>33</value>
-  </data>
-  <data name="lunchSoup.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>System</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Welcome to Transylvania</value>
-  </data>
-  <data name="btnCalculateTotalCost.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 12pt, style=Bold</value>
-  </data>
-  <data name="activitySkydiving.Text" xml:space="preserve">
-    <value>Skydiving £30.00</value>
-  </data>
-  <data name="&gt;&gt;result.Name" xml:space="preserve">
-    <value>result</value>
-  </data>
-  <data name="&gt;&gt;GroupBox4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="result.Location" type="System.Drawing.Point, System.Drawing">
-    <value>182, 474</value>
-  </data>
-  <data name="lunchSandwich.Location" type="System.Drawing.Point, System.Drawing">
-    <value>27, 53</value>
-  </data>
-  <data name="visit8August.Text" xml:space="preserve">
-    <value>Saturday 8th August</value>
-  </data>
-  <data name="&gt;&gt;Label2.Name" xml:space="preserve">
-    <value>Label2</value>
-  </data>
-  <data name="&gt;&gt;activityHorseRiding.Parent" xml:space="preserve">
-    <value>GroupBox4</value>
-  </data>
-  <data name="visit15August.Size" type="System.Drawing.Size, System.Drawing">
-    <value>176, 24</value>
   </data>
   <data name="&gt;&gt;lunchBakedPotato.Type" xml:space="preserve">
     <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="GroupBox3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>232, 140</value>
+  <data name="&gt;&gt;activityHorseRiding.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
-  <data name="btnNextPage.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 12pt, style=Bold</value>
+  <data name="Label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 49</value>
   </data>
-  <data name="&gt;&gt;GroupBox2.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;Label2.Name" xml:space="preserve">
+    <value>Label2</value>
   </data>
-  <data name="&gt;&gt;activityHorseRiding.Name" xml:space="preserve">
-    <value>activityHorseRiding</value>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
   </data>
-  <data name="lunchSoup.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10pt, style=Bold</value>
+  <data name="lunchSandwich.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
   </data>
-  <data name="activityHillWalking.Location" type="System.Drawing.Point, System.Drawing">
-    <value>35, 53</value>
-  </data>
-  <data name="&gt;&gt;result.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>1093, 619</value>
-  </data>
-  <data name="extraActivityBungeeJumping.TabIndex" type="System.Int32, mscorlib">
-    <value>26</value>
-  </data>
-  <data name="&gt;&gt;activitySkydiving.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lunchSalad.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;visit22August.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;GroupBox3.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;visit8August.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="resetButton.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
   </data>
   <data name="extraActivityBungeeJumping.Location" type="System.Drawing.Point, System.Drawing">
     <value>27, 77</value>
   </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;result.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;GroupBox2.Name" xml:space="preserve">
+  <data name="&gt;&gt;extraActivityFalconry.Parent" xml:space="preserve">
     <value>GroupBox2</value>
   </data>
-  <data name="btnNextPage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>104, 30</value>
+  <data name="&gt;&gt;visit29August.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;visit8August.Parent" xml:space="preserve">
-    <value>GroupBox3</value>
+  <data name="&gt;&gt;resetButton.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="GroupBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>232, 140</value>
+  <data name="&gt;&gt;lunchSoup.Name" xml:space="preserve">
+    <value>lunchSoup</value>
   </data>
-  <data name="extraActivityBungeeJumping.Text" xml:space="preserve">
-    <value>Bungee jumping £30.00</value>
+  <data name="GroupBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>232, 118</value>
   </data>
-  <data name="Label2.TabIndex" type="System.Int32, mscorlib">
-    <value>34</value>
+  <data name="&gt;&gt;Label2.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="activityHorseRiding.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="activityHillWalking.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 11pt, style=Bold</value>
-  </data>
-  <data name="visit15August.Location" type="System.Drawing.Point, System.Drawing">
-    <value>35, 53</value>
-  </data>
-  <data name="activitySkydiving.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 25</value>
-  </data>
-  <data name="&gt;&gt;GroupBox4.Name" xml:space="preserve">
-    <value>GroupBox4</value>
-  </data>
-  <data name="&gt;&gt;visit15August.Name" xml:space="preserve">
-    <value>visit15August</value>
-  </data>
-  <data name="lunchBakedPotato.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="GroupBox2.Text" xml:space="preserve">
-    <value>Extra Activities : </value>
-  </data>
-  <data name="&gt;&gt;extraActivityBungeeJumping.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="visit29August.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;btnCalculateTotalCost.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="activitySkydiving.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lunchSandwich.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 24</value>
-  </data>
-  <data name="extraActivityBungeeJumping.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>System</value>
-  </data>
-  <data name="extraActivityBungeeJumping.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 24</value>
-  </data>
-  <data name="&gt;&gt;extraActivityArchery.Parent" xml:space="preserve">
-    <value>GroupBox2</value>
-  </data>
-  <data name="extraActivityArchery.Location" type="System.Drawing.Point, System.Drawing">
-    <value>27, 27</value>
-  </data>
-  <data name="result.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 11pt, style=Bold</value>
-  </data>
-  <data name="visit29August.Location" type="System.Drawing.Point, System.Drawing">
-    <value>35, 103</value>
-  </data>
-  <data name="lunchSoup.Size" type="System.Drawing.Size, System.Drawing">
-    <value>107, 24</value>
-  </data>
-  <data name="lunchBakedPotato.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10pt, style=Bold</value>
   </data>
   <data name="&gt;&gt;visit8August.Name" xml:space="preserve">
     <value>visit8August</value>
   </data>
-  <data name="activityHorseRiding.Size" type="System.Drawing.Size, System.Drawing">
-    <value>172, 25</value>
+  <data name="extraActivityBungeeJumping.Text" xml:space="preserve">
+    <value>Bungee jumping £30.00</value>
   </data>
-  <data name="&gt;&gt;visit22August.Name" xml:space="preserve">
-    <value>visit22August</value>
+  <data name="activityHillWalking.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
   </data>
-  <data name="&gt;&gt;lunchSandwich.Type" xml:space="preserve">
+  <data name="lunchSalad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 28</value>
+  </data>
+  <data name="btnCalculateTotalCost.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;result.Name" xml:space="preserve">
+    <value>result</value>
+  </data>
+  <data name="result.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 27</value>
+  </data>
+  <data name="btnNextPage.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="&gt;&gt;btnCalculateTotalCost.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lunchSalad.Type" xml:space="preserve">
     <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;activityHillWalking.Name" xml:space="preserve">
-    <value>activityHillWalking</value>
-  </data>
-  <data name="visit8August.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10pt, style=Bold</value>
-  </data>
-  <data name="visit22August.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>System</value>
-  </data>
-  <data name="extraActivityFalconry.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="&gt;&gt;lunchSoup.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
   </data>
   <data name="&gt;&gt;lunchSoup.Type" xml:space="preserve">
     <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -18509,190 +18590,109 @@
   <data name="extraActivityFalconry.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 24</value>
   </data>
-  <data name="&gt;&gt;lunchSalad.Name" xml:space="preserve">
-    <value>lunchSalad</value>
-  </data>
-  <data name="lunchSoup.Text" xml:space="preserve">
-    <value>Soup £2.75</value>
-  </data>
-  <data name="extraActivityBungeeJumping.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10pt, style=Bold</value>
-  </data>
-  <data name="visit15August.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10pt, style=Bold</value>
-  </data>
-  <data name="lunchBakedPotato.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;activitySkydiving.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="btnNextPage.Location" type="System.Drawing.Point, System.Drawing">
-    <value>430, 474</value>
-  </data>
-  <data name="&gt;&gt;activitySkydiving.Parent" xml:space="preserve">
-    <value>GroupBox4</value>
-  </data>
-  <data name="lunchSalad.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>System</value>
-  </data>
-  <data name="&gt;&gt;visit29August.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="extraActivityBungeeJumping.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;result.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="visit22August.Text" xml:space="preserve">
-    <value>Saturday 22nd August</value>
-  </data>
-  <data name="&gt;&gt;lunchSalad.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="extraActivityArchery.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10pt, style=Bold</value>
-  </data>
-  <data name="Label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>734, 52</value>
-  </data>
-  <data name="&gt;&gt;Label2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="lunchSoup.Location" type="System.Drawing.Point, System.Drawing">
-    <value>27, 78</value>
-  </data>
-  <data name="visit8August.Location" type="System.Drawing.Point, System.Drawing">
-    <value>35, 28</value>
-  </data>
-  <data name="visit22August.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;activityHillWalking.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lunchSalad.Location" type="System.Drawing.Point, System.Drawing">
-    <value>27, 28</value>
-  </data>
-  <data name="visit29August.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;GroupBox3.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;btnCalculateTotalCost.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;activityHillWalking.Parent" xml:space="preserve">
-    <value>GroupBox4</value>
-  </data>
-  <data name="GroupBox3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 12pt, style=Bold</value>
-  </data>
-  <data name="resetButton.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 12pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;activityHorseRiding.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="GroupBox3.TabIndex" type="System.Int32, mscorlib">
-    <value>25</value>
-  </data>
-  <data name="&gt;&gt;extraActivityFalconry.Parent" xml:space="preserve">
-    <value>GroupBox2</value>
-  </data>
-  <data name="&gt;&gt;visit15August.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="GroupBox2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 12pt, style=Bold</value>
-  </data>
   <data name="&gt;&gt;btnCalculateTotalCost.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="activitySkydiving.Location" type="System.Drawing.Point, System.Drawing">
-    <value>35, 78</value>
-  </data>
-  <data name="visit8August.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;activityHillWalking.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="activityHillWalking.Text" xml:space="preserve">
-    <value>Hill walking £15.00</value>
-  </data>
-  <data name="extraActivityArchery.TabIndex" type="System.Int32, mscorlib">
-    <value>24</value>
-  </data>
-  <data name="resetButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>104, 30</value>
-  </data>
-  <data name="&gt;&gt;Label2.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;visit15August.Parent" xml:space="preserve">
-    <value>GroupBox3</value>
-  </data>
-  <data name="Label2.Text" xml:space="preserve">
-    <value>Welcome to Transylvania Tours</value>
-  </data>
-  <data name="&gt;&gt;GroupBox3.Name" xml:space="preserve">
-    <value>GroupBox3</value>
-  </data>
-  <data name="&gt;&gt;extraActivityFalconry.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="activitySkydiving.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 11pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;GroupBox2.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;lunchBakedPotato.Name" xml:space="preserve">
-    <value>lunchBakedPotato</value>
+  <data name="&gt;&gt;visit15August.Name" xml:space="preserve">
+    <value>visit15August</value>
   </data>
   <data name="&gt;&gt;activitySkydiving.Name" xml:space="preserve">
     <value>activitySkydiving</value>
   </data>
-  <data name="&gt;&gt;extraActivityBungeeJumping.Name" xml:space="preserve">
-    <value>extraActivityBungeeJumping</value>
+  <data name="GroupBox4.Text" xml:space="preserve">
+    <value>Activities : </value>
   </data>
-  <data name="&gt;&gt;GroupBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="GroupBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>232, 140</value>
   </data>
-  <data name="&gt;&gt;lunchSoup.Parent" xml:space="preserve">
-    <value>GroupBox1</value>
+  <data name="GroupBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
   </data>
-  <data name="Label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>168, 49</value>
-  </data>
-  <data name="&gt;&gt;lunchSandwich.Name" xml:space="preserve">
-    <value>lunchSandwich</value>
+  <data name="extraActivityArchery.Text" xml:space="preserve">
+    <value>Archery £20.00</value>
   </data>
   <data name="activityHillWalking.Size" type="System.Drawing.Size, System.Drawing">
     <value>167, 25</value>
   </data>
-  <data name="&gt;&gt;visit22August.Parent" xml:space="preserve">
+  <data name="&gt;&gt;btnNextPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;visit8August.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;extraActivityArchery.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;resetButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="GroupBox3.Text" xml:space="preserve">
+    <value>Date of visit : </value>
+  </data>
+  <data name="&gt;&gt;result.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;visit8August.Parent" xml:space="preserve">
     <value>GroupBox3</value>
   </data>
-  <data name="&gt;&gt;lunchSandwich.Parent" xml:space="preserve">
-    <value>GroupBox1</value>
+  <data name="visit15August.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt, style=Bold</value>
   </data>
-  <data name="&gt;&gt;btnNextPage.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Welcome to Transylvania</value>
   </data>
-  <data name="&gt;&gt;visit29August.Name" xml:space="preserve">
-    <value>visit29August</value>
+  <data name="&gt;&gt;visit15August.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
-  <data name="activityHillWalking.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
+  <data name="lunchBakedPotato.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
-    <value>aa</value>
-  </metadata>
+  <data name="visit22August.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;btnCalculateTotalCost.Name" xml:space="preserve">
+    <value>btnCalculateTotalCost</value>
+  </data>
+  <data name="visit22August.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>System</value>
+  </data>
+  <data name="lunchBakedPotato.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;visit8August.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="extraActivityBungeeJumping.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;extraActivityArchery.Parent" xml:space="preserve">
+    <value>GroupBox2</value>
+  </data>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>Welcome to Transylvania Tours</value>
+  </data>
+  <data name="extraActivityArchery.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="visit15August.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 53</value>
+  </data>
+  <data name="&gt;&gt;activitySkydiving.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="GroupBox1.Text" xml:space="preserve">
+    <value>Lunch</value>
+  </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>aa</value>
   </metadata>
 </root>

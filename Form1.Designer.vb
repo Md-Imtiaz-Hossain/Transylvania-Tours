@@ -190,7 +190,7 @@ Partial Class Form1
         ' btnNextPage
         ' 
         resources.ApplyResources(btnNextPage, "btnNextPage")
-        btnNextPage.BackColor = Color.Orange
+        btnNextPage.BackColor = Color.Lime
         btnNextPage.FlatAppearance.BorderSize = 0
         btnNextPage.Name = "btnNextPage"
         btnNextPage.UseVisualStyleBackColor = False

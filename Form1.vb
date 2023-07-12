@@ -94,6 +94,7 @@ Public Class Form1
     Private Sub btnNextPage_Click(sender As Object, e As EventArgs) Handles btnNextPage.Click
         Dim lunchForm As New NextForm(totalAmount)
         lunchForm.Show()
+        Me.Hide()
     End Sub
 
 End Class
