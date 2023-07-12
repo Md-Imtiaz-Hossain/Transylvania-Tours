@@ -31,7 +31,7 @@ Public Class ConfirmationForm
         Label1.AutoSize = True
         Label1.Font = New Font("Segoe UI", 30.0F, FontStyle.Bold, GraphicsUnit.Point)
         Label1.ForeColor = Color.DarkBlue
-        Label1.Location = New Point(109, 142)
+        Label1.Location = New Point(115, 115)
         Label1.Name = "Label1"
         Label1.Size = New Size(215, 54)
         Label1.TabIndex = 0
