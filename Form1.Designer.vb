@@ -43,9 +43,9 @@ Partial Class Form1
         activityHorseRiding = New RadioButton()
         btnNextPage = New Button()
         btnCalculateTotalCost = New Button()
-        Label1 = New Label()
         result = New TextBox()
         resetButton = New Button()
+        Label2 = New Label()
         GroupBox1.SuspendLayout()
         GroupBox2.SuspendLayout()
         GroupBox3.SuspendLayout()
@@ -290,56 +290,62 @@ Partial Class Form1
         ' btnNextPage
         ' 
         btnNextPage.BackColor = Color.Orange
+        btnNextPage.FlatAppearance.BorderSize = 0
         btnNextPage.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        btnNextPage.Location = New Point(302, 474)
+        btnNextPage.Location = New Point(430, 474)
+        btnNextPage.Margin = New Padding(0)
         btnNextPage.Name = "btnNextPage"
-        btnNextPage.Size = New Size(104, 38)
+        btnNextPage.Size = New Size(104, 30)
         btnNextPage.TabIndex = 29
         btnNextPage.Text = "Next"
         btnNextPage.UseVisualStyleBackColor = False
         ' 
         ' btnCalculateTotalCost
         ' 
-        btnCalculateTotalCost.BackColor = Color.Orange
+        btnCalculateTotalCost.BackColor = Color.White
+        btnCalculateTotalCost.FlatAppearance.BorderSize = 0
         btnCalculateTotalCost.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        btnCalculateTotalCost.Location = New Point(182, 474)
+        btnCalculateTotalCost.Location = New Point(54, 474)
+        btnCalculateTotalCost.Margin = New Padding(0)
         btnCalculateTotalCost.Name = "btnCalculateTotalCost"
-        btnCalculateTotalCost.Size = New Size(104, 38)
+        btnCalculateTotalCost.Size = New Size(122, 30)
         btnCalculateTotalCost.TabIndex = 30
-        btnCalculateTotalCost.Text = "Total Cost"
+        btnCalculateTotalCost.Text = "Total Cost = "
         btnCalculateTotalCost.UseVisualStyleBackColor = False
-        ' 
-        ' Label1
-        ' 
-        Label1.AllowDrop = True
-        Label1.AutoSize = True
-        Label1.BackColor = Color.AntiqueWhite
-        Label1.FlatStyle = FlatStyle.System
-        Label1.Font = New Font("Forte", 40F, FontStyle.Regular, GraphicsUnit.Point)
-        Label1.Location = New Point(202, 41)
-        Label1.Name = "Label1"
-        Label1.Size = New Size(749, 60)
-        Label1.TabIndex = 31
-        Label1.Text = "Welcome to Transylvania Tours"
-        Label1.UseMnemonic = False
         ' 
         ' result
         ' 
-        result.Location = New Point(570, 485)
+        result.BackColor = Color.White
+        result.Font = New Font("Segoe UI", 11F, FontStyle.Bold, GraphicsUnit.Point)
+        result.Location = New Point(182, 474)
         result.Name = "result"
-        result.Size = New Size(100, 23)
+        result.Size = New Size(104, 27)
         result.TabIndex = 32
         ' 
         ' resetButton
         ' 
         resetButton.BackColor = Color.Orange
+        resetButton.FlatAppearance.BorderSize = 0
         resetButton.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        resetButton.Location = New Point(238, 529)
+        resetButton.Location = New Point(302, 474)
+        resetButton.Margin = New Padding(0)
         resetButton.Name = "resetButton"
-        resetButton.Size = New Size(104, 38)
+        resetButton.Size = New Size(104, 30)
         resetButton.TabIndex = 33
         resetButton.Text = "Reset"
         resetButton.UseVisualStyleBackColor = False
+        ' 
+        ' Label2
+        ' 
+        Label2.AutoSize = True
+        Label2.BackColor = Color.Transparent
+        Label2.Font = New Font("Lucida Calligraphy", 30F, FontStyle.Bold Or FontStyle.Underline, GraphicsUnit.Point)
+        Label2.ForeColor = Color.Peru
+        Label2.Location = New Point(168, 49)
+        Label2.Name = "Label2"
+        Label2.Size = New Size(734, 52)
+        Label2.TabIndex = 34
+        Label2.Text = "Welcome to Transylvania Tours"
         ' 
         ' Form1
         ' 
@@ -347,6 +353,7 @@ Partial Class Form1
         AutoScaleMode = AutoScaleMode.Font
         BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), Image)
         ClientSize = New Size(1093, 619)
+        Controls.Add(Label2)
         Controls.Add(resetButton)
         Controls.Add(result)
         Controls.Add(btnCalculateTotalCost)
@@ -355,7 +362,6 @@ Partial Class Form1
         Controls.Add(GroupBox3)
         Controls.Add(GroupBox2)
         Controls.Add(GroupBox1)
-        Controls.Add(Label1)
         Name = "Form1"
         Text = "Form1"
         GroupBox1.ResumeLayout(False)
@@ -389,7 +395,7 @@ Partial Class Form1
     Friend WithEvents activityHorseRiding As RadioButton
     Friend WithEvents btnNextPage As Button
     Friend WithEvents btnCalculateTotalCost As Button
-    Friend WithEvents Label1 As Label
     Friend WithEvents result As TextBox
     Friend WithEvents resetButton As Button
+    Friend WithEvents Label2 As Label
 End Class

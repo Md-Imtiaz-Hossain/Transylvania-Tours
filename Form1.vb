@@ -1,4 +1,5 @@
-﻿Imports System.Windows.Forms.Design.AxImporter
+﻿Imports System.Globalization
+Imports System.Windows.Forms.Design.AxImporter
 Imports System.Windows.Forms.VisualStyles.VisualStyleElement.Button
 
 Public Class Form1
@@ -53,7 +54,7 @@ Public Class Form1
         End If
 
         ' Assign the total amount to the result text box
-        result.Text = totalAmount.ToString("C")
+        result.Text = totalAmount.ToString("C", CultureInfo.GetCultureInfo("en-GB"))
 
 
     End Sub
@@ -85,5 +86,6 @@ Public Class Form1
         totalAmount = 0
         result.Text = ""
     End Sub
+
 
 End Class
