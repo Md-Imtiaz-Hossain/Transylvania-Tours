@@ -9,12 +9,6 @@ Imports System.Text
 Public Class ConfirmationForm
     Inherits Form
 
-    Public Property FirstName As String
-    Public Property LastName As String
-    Public Property Email As String
-    Public Property Address As String
-    Public Property TotalAmount As Decimal
-
 
     Public Sub New()
         InitializeComponent()
